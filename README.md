@@ -1,4 +1,4 @@
-# eventshive
+# Events Hive : Where Events Come Alive
 
 A new Flutter project.
 
@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Objective:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build EventHive, a comprehensive event management platform where organizers can easily
+create, publish, and manage events with flexible ticketing and promotions, while attendees can
+seamlessly discover, register, pay, and receive tickets via Email/WhatsApp along with timely
+reminders and smooth check-in experiences
