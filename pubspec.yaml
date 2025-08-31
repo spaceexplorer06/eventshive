@@ -36,6 +36,15 @@ dependencies:
   cupertino_icons: ^1.0.8
   http: ^1.5.0
   carousel_slider: ^5.1.1
+  printing: ^5.14.2
+  pdf: ^3.11.3
+  path_provider: ^2.1.5
+  open_file: ^3.5.10
+  url_launcher: ^6.3.2
+  shared_preferences: ^2.5.3
+  qr_flutter: ^4.1.0
+  dropdown_search: ^6.0.2
+  flutter_speed_dial: ^7.0.0
 
 dev_dependencies:
   flutter_test:
@@ -64,6 +73,7 @@ flutter:
     - assets/images/landing.jpg
     - assets/images/logo1.png
     - assets/images/placeholder.jpg
+    - assets/images/logo2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
