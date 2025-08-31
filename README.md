@@ -1,5 +1,7 @@
 # Events Hive : Where Events Come Alive
 
+
+# Please check my repo : lib, I had run the git commit in the lib folder by mistake, it contains, all the pages and code for the application
 A new Flutter project.
 
 ## Getting Started
